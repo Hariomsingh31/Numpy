@@ -9,4 +9,4 @@ Array in Numpy is a table of elements (usually numbers), all of the same type, i
 
 
 
-<img width="335" height="150" alt="download" src="https://github.com/user-attachments/assets/ac12b910-74ec-48d3-8d7f-3c1f95b10113" />
+<img width="3350" height="150" alt="download" src="https://github.com/user-attachments/assets/ac12b910-74ec-48d3-8d7f-3c1f95b10113" />

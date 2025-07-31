@@ -16,9 +16,15 @@ NumPy (Numerical Python) is a powerful library for numerical computations in Pyt
 
 Table of Content
 
-<h3>Create NumPy Arrays<\h3>
+Create NumPy Arrays
+
 Key Attributes of NumPy Arrays
+
 Operations on NumPy Arrays
+
 Dimensions in NumPy Arrays
+
 NumPy Arrays vs Python Lists
+
 Data Allocation in Numpy Array
+    

@@ -6,4 +6,7 @@ Besides its obvious scientific uses, Numpy can also be used as an efficient mult
 
 Arrays in Numpy
 Array in Numpy is a table of elements (usually numbers), all of the same type, indexed by a tuple of positive integers. In Numpy, number of dimensions of the array is called rank of the array. A tuple of integers giving the size of the array along each dimension is known as shape of the array. An array class in Numpy is called as ndarray. Elements in Numpy arrays are accessed by using square brackets and can be initialized by using nested Python Lists.
-![download](https://github.com/user-attachments/assets/df03406f-95f0-470d-948a-eb88aca532d5)
+
+
+
+<img width="335" height="150" alt="download" src="https://github.com/user-attachments/assets/ac12b910-74ec-48d3-8d7f-3c1f95b10113" />

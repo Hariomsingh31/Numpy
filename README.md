@@ -10,3 +10,15 @@ Array in Numpy is a table of elements (usually numbers), all of the same type, i
 
 
 <img width="40000" height="300" alt="download" src="https://github.com/user-attachments/assets/ac12b910-74ec-48d3-8d7f-3c1f95b10113" />
+
+
+NumPy (Numerical Python) is a powerful library for numerical computations in Python. It is commonly referred to multidimensional container that holds the same data type. It is the core data structure of the NumPy library and is optimized for numerical and scientific computation in Python.
+
+Table of Content
+
+<h3>Create NumPy Arrays<\h3>
+Key Attributes of NumPy Arrays
+Operations on NumPy Arrays
+Dimensions in NumPy Arrays
+NumPy Arrays vs Python Lists
+Data Allocation in Numpy Array
